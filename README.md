@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pxyarsenal/pxyarsenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student in Peking University
+- 🌱 I’m currently learning Artificial Intelligence in Yuanpei College
+- 📫 How to reach me: 2200017840@stu.pku.edu.cn
+- ⚡ Fun fact: Welcome to chat with me about everything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My
+![Visitor Count](https://profile-counter.glitch.me/pxyarsenal/count.svg)
+visitor
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxyarsenal)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxyarsenal&layout=compact)](https://github.com/pxyarsenal/github-readme-stats)
